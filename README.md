@@ -1,4 +1,3 @@
-## 히히
 ⚡
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=119wjw)](https://solved.ac/119wjw)
 🔥
